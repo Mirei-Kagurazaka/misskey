@@ -147,6 +147,7 @@ hr {
 	height: 100%;
 	background: var(--modalBg);
 	backdrop-filter: var(--modalBgFilter);
+	-webkit-backdrop-filter: var(--modalBgFilter);
 }
 
 ._shadow {
